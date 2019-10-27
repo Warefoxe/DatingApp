@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\angular\\site\\DatingApp\\DatingApp.API\\DatingApp.API\\DatingApp.API.csproj": {}
+    "C:\\Users\\juras\\source\\repos\\DatingApp\\DatingApp.API\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "D:\\angular\\site\\DatingApp\\DatingApp.API\\DatingApp.API\\DatingApp.API.csproj": {
+    "C:\\Users\\juras\\source\\repos\\DatingApp\\DatingApp.API\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\angular\\site\\DatingApp\\DatingApp.API\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "C:\\Users\\juras\\source\\repos\\DatingApp\\DatingApp.API\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "D:\\angular\\site\\DatingApp\\DatingApp.API\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "C:\\Users\\juras\\source\\repos\\DatingApp\\DatingApp.API\\DatingApp.API\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\juras\\.nuget\\packages\\",
-        "outputPath": "D:\\angular\\site\\DatingApp\\DatingApp.API\\DatingApp.API\\obj\\",
+        "outputPath": "C:\\Users\\juras\\source\\repos\\DatingApp\\DatingApp.API\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,6 +61,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
             }
           },
           "imports": [
